@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+
+#head {
+    background-color: black;
+}
+
+#header {
+    text-align: center;
+    font-family: 'Westmeath', sans-serif;
+    color: rgb(9, 8, 5);
+    font-size: 100px;
+    background-image: url("/images_app/golden_background_gif.gif") ;
+}
+
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 7%;
+}
+
+.genre {
+    display: flex;
+    flex-direction: column;
+    text-align: center;  
+    font-family: 'Westmeath', sans-serif;
+    color: rgb(218,165,32);
+    font-size: 50px;
+    margin-top: 5%;
+    visibility: hidden;
+}
+
+.images {
+    row-gap: 100px;
+}
+
+#photo1 {
+    width: 60%;
+}
+#photo2 {
+    width: 60%;
+}
+#photo3 {
+    width: 60%;
+}
+#photo4 {
+    width: 60%;
+}
+#photo5 {
+    width: 60%;
+}
+#photo6 {
+    width: 60%;
+}
+#photo7 {
+    width: 60%;
+}
+#photo8 {
+    width: 60%;
+}
+#photo9 {
+    width: 60%;
+}
+
+.photo {
+    display: flex;
+    justify-self: center;
+    margin: auto;
+}

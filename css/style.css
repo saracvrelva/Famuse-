@@ -1,0 +1,41 @@
+
+#songInfoDiv{
+    display: flexbox;
+    justify-content: center;
+}
+
+#songDataView{
+    display: flex;
+    justify-content: center;
+
+
+}
+
+#kamasutraDiv{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+#title{
+    text-align: center;
+    font-family: 'Westmeath', sans-serif;
+    color: rgb(9, 8, 5);
+    font-size: 100px;
+    background-image: url("/images_app/golden_background_gif.gif") ;
+}
+
+#kamasutraImg{
+    width: 600px;
+    
+}
+
+#backImage{
+    width: 70px;
+
+}
+
+#backToGenre{
+    padding:0%;
+}

@@ -1,0 +1,99 @@
+body {
+    background-color: rgb(2, 2, 2);
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 10%;
+    font-family: 'Westmeath', sans-serif;
+}
+
+.wave {
+    display: flex;
+    justify-content: center;
+}
+
+#image {
+    max-width: 20%;
+    margin-top: -2%;
+    text-align: center;
+}
+
+#frontlogo {
+    font-size: 200px;
+    margin-top: -4%;
+    text-align: center;
+    background-image: linear-gradient(
+    to right,
+    #462523 0,
+        #CB9B51 22%,
+    #F6E27A 45%,
+    #F6F2C0 50%,
+    #F6E27A 55%,
+    #CB9B51 78%,
+    #462523 100%
+    );
+    color:transparent;
+   -webkit-background-clip:text;
+}
+
+#frontDescription {
+    font-size: 50px;
+    text-align: center;
+    background-image: linear-gradient(
+    to right,
+    #462523 0,
+        #CB9B51 22%,
+    #F6E27A 45%,
+    #F6F2C0 50%,
+    #F6E27A 55%,
+    #CB9B51 78%,
+    #462523 100%
+    );
+    color:transparent;
+   -webkit-background-clip:text;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+#plug {
+    width: 12%;
+    margin-top: 3%;
+}
+
+#plug:hover {
+    width: 12%;
+    margin-top: 3%;
+    transform: scale(-1);
+    
+}
+
+.plugit {
+    display: flex;
+    justify-content: center;
+}
+
+#plugtext {
+    font-family: 'Westmeath', sans-serif;
+    font-size: 50px;
+    margin-top: 1%;
+    background-image: linear-gradient(
+    to right,
+    #462523 0,
+        #CB9B51 22%,
+    #F6E27A 45%,
+    #F6F2C0 50%,
+    #F6E27A 55%,
+    #CB9B51 78%,
+    #462523 100%
+    );
+    color:transparent;
+   -webkit-background-clip:text;
+}
