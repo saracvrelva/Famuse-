@@ -16,6 +16,6 @@ We ended up adding the functionality to choose what kind of images you would lik
 
 With the Scrum methodology in mind, we used a bord to define the product backlog (product features in a list: API for music, music with auto playing, music genres, pictures…), in working features, in test and what was done. We started by separating our group into pairs and each one stayed with a feature to work on. Every two hours we did a sprint to talk about the progress and figure out what changes we should make.
 
-//Tech && Methodologies
+# Tech && Methodologies
 
 JavaScript, JQUERY, Node.js, Dev Tools Chrome, CSS, HTML, SPA, MVC, Git, Photoshop, Scrum
